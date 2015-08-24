@@ -11,5 +11,5 @@ Package.onUse(function(api) {
 });
 
 Npm.depends({
-	steam: '0.6.8'
+	steam: '0.6.7'
 });
